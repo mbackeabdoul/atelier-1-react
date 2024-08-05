@@ -64,4 +64,4 @@ class Todos extends React.Component{
           );
         }
   }
-  ReactDOM.render(<Todos/>, document.getElementById("root"))
+  ReactDOM.render(<Todos/>, document.getElementById("root")) 
